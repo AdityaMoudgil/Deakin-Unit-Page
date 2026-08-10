@@ -1,19 +1,31 @@
-
+body {
+  margin: 0;
+}
+div {
+  background-color: #58BDAF;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
 
 h1 {
+  margin: 0;   /* removes h1's default spacing so it centers tightly next to the logo */
+}
+h1 {
   font-size: 40px;
-  font-family: Arial
+  font-family: Arial;
 }
 h2 {
   font-size: 25px;
-  font-family: Arial
+  font-family: Arial;
 }
 h3 {
-  font-family: Arial
+  font-family: Arial;
 }
 p {
   font-size: 14px;
-  font-family: Arial
+  font-family: Arial;
 }
-
-
