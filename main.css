@@ -10,6 +10,13 @@ div {
   width: 100%;
   box-sizing: border-box;
 }
+.team {
+  margin-left: auto;
+  margin-right: 0;
+  font-size: 18px;
+  color: #010;
+  text-align: right;
+}
 
 h1 {
   margin: 0;   /* removes h1's default spacing so it centers tightly next to the logo */
